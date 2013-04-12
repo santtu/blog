@@ -2,7 +2,7 @@
  Can you blog in github?
 =========================
 
-_Date: 2013-04-12_
+*Date: 2013-04-12*
 
 I've written quite a lot in my life. Some of it has ended up in blogs
 (now since gone, although I have archive copies), alas most
