@@ -1,4 +1,4 @@
-SUBDIRS = entries
+SUBDIRS = entries tests
 
 all clean: $(SUBDIRS)
 	$(MAKE) $@-local
